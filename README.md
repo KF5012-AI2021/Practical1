@@ -3,7 +3,7 @@ Getting Started with Python Notebooks
 
 
 ## Set up your notebook 
-Go to https://jupyter.org/index.html and click ‘Try it in your browser’ then click ‘Try Classic Notebook’
+Go to https://mybinder.org/v2/gh/KF5012-AI2020/Practical1/691f4816e694f9f449d6b1d4638d665cd6b11975 to get started.
 
 ## What is in this Practical Session
 1. Introduction to Jupyter Notebooks
