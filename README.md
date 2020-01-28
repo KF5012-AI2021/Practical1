@@ -12,3 +12,5 @@ Open up this repository in [binder](https://mybinder.org/v2/gh/KF5012-AI2020/Pra
 5. Exercises
 
 It is suggested to read the notebooks in the above order. You can also try the Exercises while you read through the notebooks
+
+If you have any questions, my email is daniel.organisciak@northumbria.ac.uk
