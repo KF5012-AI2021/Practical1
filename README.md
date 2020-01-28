@@ -8,3 +8,5 @@ Open up this repository in [binder](https://mybinder.org/v2/gh/KF5012-AI2020/Pra
 ## What is in this Practical Session
 1. Introduction to Jupyter Notebooks
 2. Introduction to Python
+3. Numpy and Arrays
+4. Data
