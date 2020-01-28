@@ -2,7 +2,7 @@
 Getting Started with Python Notebooks
 
 ## Set up your notebook 
-Open up this repository in [binder](https://mybinder.org/v2/gh/KF5012-AI2020/Practical1/761d6e779ce6a9c1ced12b0f52a94d19070ffc33) to get started.
+Open up this repository in [binder](https://mybinder.org/v2/gh/KF5012-AI2020/Practical1/15b485792a41c96f2eac84a1604b11d0124a39d0) to get started.
 
 ## What is in this Practical Session
 1. Introduction to Jupyter Notebooks
